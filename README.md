@@ -1,5 +1,5 @@
 # An interpreter for BrainF****
-This is a simple interpreter writen in SML. The main purpose of this program is to sharpen my functional programming skill for my course project ECE553 Compiler Construction, namely implemented a tiger compiler in SML.
+This is a simple interpreter writen in SML. The main purpose of this program is to sharpen my functional programming skill for my course project ECE553 Compiler Construction, namely implementing a tiger compiler in SML.
 
 # Files
 The repository contains one SML source file and a bunch of brainf**** programs in directory `./bsrc` to check the correctness of the interpreter.
